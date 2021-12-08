@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhm=self.webpackChunkhm||[]).push([[125],{4283:function(e){e.exports=JSON.parse('{"pluginId":"aboutUs","version":"current","label":"Next","banner":null,"badge":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"\u6210\u5458","href":"/en/about-us/"}]}}')}}]);
