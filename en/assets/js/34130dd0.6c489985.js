@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhm=self.webpackChunkhm||[]).push([[857],{2917:function(e){e.exports=JSON.parse('{"pluginId":"release","version":"current","label":"Next","banner":null,"badge":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"\u53d1\u8868\u8bba\u6587","href":"/en/release/"}]}}')}}]);
